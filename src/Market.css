@@ -1,0 +1,8 @@
+.coin-search{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(10,10,10,1);
+    color: white;
+}
